@@ -1,3 +1,5 @@
 # Math Website
 
-This is one of the first ever websites I created from scratch. It uses HTML & CSS. 
+A website for math classes. 
+
+🚀 Technical Stack: HTML, CSS
